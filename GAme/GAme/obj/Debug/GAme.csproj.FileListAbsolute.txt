@@ -1,0 +1,11 @@
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\bin\Debug\GAme.exe.config
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\bin\Debug\GAme.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\bin\Debug\GAme.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.csproj.AssemblyReference.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.Form1.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.Properties.Resources.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.csproj.GenerateResource.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.csproj.CoreCompileInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\GAme\GAme\obj\Debug\GAme.csproj.SuggestedBindingRedirects.cache
